@@ -1,0 +1,18 @@
+{
+
+   "name" : "Keshav",
+    "party": "BJP",
+    "age": 24,
+    "votes": [
+          {
+               "user": "61122fhrt66820jnsl92",
+               "voterAt": "2024-02-20To8:00:00.000Z"
+          },
+          {
+             "user": "611383972837jj9h992uwh9",
+             "votedAt": "2024-02-20T08:15:00.000Z"
+          }
+    ],
+    "voteCount": 2
+
+}
